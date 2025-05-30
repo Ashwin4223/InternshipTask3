@@ -1,5 +1,5 @@
 # InternshipTask3
-ElevateLabs Internship Task13
+ElevateLabs Internship Task3
 # 🔒 Vulnerability Scan Report using Nessus Essentials
 
 This README provides detailed steps and documentation for conducting a basic vulnerability scan on your local machine using **Nessus Essentials**. The process includes setting up the scan, identifying vulnerabilities, and documenting the results.
